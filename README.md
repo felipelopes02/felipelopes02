@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm Felipe Lopes  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Hello I'm Felipe Lopes  
 </h1>
 
 <!--
@@ -8,8 +8,8 @@ Hello I'm Felipe Lopes  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/g
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Atos BR
-- 🌱 I’m currently learning Python, React.js
+- 🔭 I’m currently working on Finanblue
+- 🌱 I’m currently learning SQL, Angular
 -->
 
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/felipelopes02/felipelopes02/blob/output/github-contribution-grid-snake.svg)
+
