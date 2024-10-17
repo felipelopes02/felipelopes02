@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=felipelopes02&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelopes02&layout=compact" />
-
 
 
 <img align="left" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
